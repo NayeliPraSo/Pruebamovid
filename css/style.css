@@ -1,0 +1,272 @@
+.um-profile-body{padding-left:0;padding-right:0}
+.um-header.no-cover .um-profile-meta {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center !important
+}
+
+.um-profile-meta {
+    padding-right: 30px;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    word-wrap: break-word
+}
+
+.um-main-meta {
+    padding: 10px 0 0
+}
+
+div.uimob340 .um-header .um-profile-meta {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center !important;
+    padding-top: 60px !important
+}
+
+div.uimob340 .um-header.no-cover .um-profile-meta {
+    padding-top: 0 !important
+}
+
+div.uimob500 .um-header .um-profile-meta {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center !important;
+    padding-top: 60px !important
+}
+
+div.uimob500 .um-header.no-cover .um-profile-meta {
+    padding-top: 0 !important
+}
+
+div.uimob800 .um-header .um-profile-meta {
+    padding-left: 200px
+}
+
+div.uimob800 .um-cover-overlay {
+    padding: 0
+}
+
+.um-header.no-cover .um-profile-meta {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center !important
+}
+
+.um-profile-meta {
+    padding-right: 30px;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    word-wrap: break-word
+}
+
+div.uimob340 .um-header .um-profile-meta {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    text-align: center !important;
+    padding-top: 60px !important
+}
+
+div.uimob340 .um-header.no-cover .um-profile-meta {
+    padding-top: 0 !important
+}
+
+div.uimob340 .um-header .um-name {
+    float: none !important;
+    margin-right: 0 !important;
+    font-size: 18px
+}
+
+.um-profile-photo-overlay{text-shadow:0 1px #666;cursor:pointer !important}
+.um-profile a,.um-profile a:hover,.um-profile-photo-overlay ins{text-decoration:none !important}
+.um-profile-photo-overlay{display:none}.um-profile img{display:block;overflow:hidden;border-radius:0;margin:0 !important}
+.um-profile-photo{float:none !important;margin:0 auto !important;text-align:center !important}
+.um-profile-photo-img{position:relative !important;top:auto !important;left:auto !important;float:none !important;display:inline-block !important;text-align:center !important}
+.um-profile-photo{float:left;position:relative}.um-profile-photo a.um-profile-photo-img{float:left;position:absolute;background:#fff;padding:5px;left:30px}.um-profile-photo a.um-profile-photo-img img{width:100%;height:100%}.um-profile-photo-overlay{position:absolute;top:0;left:0;background:rgba(0,0,0,0.5);text-align:center;box-sizing:border-box;padding:0;color:#fff;line-height:21px;font-size:16px;height:100%;width:100%}.um-profile-photo-overlay:hover{background:rgba(0,0,0,0.55)}.um-profile-photo-overlay span.um-profile-photo-overlay-s{display:table;height:100%;width:100%}.um-profile-photo-overlay ins{display:table-cell;vertical-align:middle;height:100%;background:0 0 !important;color:#fff !important;border-bottom:none !important}
+.um-profile-photo-overlay i{font-size:46px;display:block}
+.um-profile-photo>div{width:190px;height:190px;background-image:url(/images/perrito.jpg);background-size:cover;background-repeat:no-repeat;background-position:50% 50%;margin:0 auto;border-radius: 775px;}
+
+.um-profile-nav {
+    padding: 10px;
+    background: #444;
+    text-align: center
+}
+
+.um-profile-nav-item.active a,.um-profile-nav-item.active a:hover {
+    color: #FFF !important
+}
+
+.um-profile-nav-item.active a span.count {
+    background: 0 0;
+    padding: 4px 0;
+    color: #fff
+}
+
+.um-profile-nav-item a {
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 6px 10px 6px 28px;
+    display: block;
+    float: left;
+    border-radius: 4px;
+    margin-left: 5px;
+    position: relative;
+    border-bottom: 0 !important
+}
+
+.um-profile-nav-item.without-icon a {
+    padding-left: 10px
+}
+
+.um-profile-nav-item.without-icon span.title {
+    padding-left: 0
+}
+
+.um-profile-nav-item.without-icon i {
+    display: none
+}
+
+.um-profile-nav-item a:hover {
+    background: #555
+}
+
+.um-profile-nav-item i {
+    font-size: 18px;
+    height: 18px;
+    line-height: 18px;
+    position: absolute;
+    display: block;
+    top: 8px;
+    left: 10px
+}
+
+.um-profile-nav-item span.title {
+    padding-left: 5px
+}
+
+.um-profile-nav-item span.count {
+    font-size: 12px;
+    font-weight: 300;
+    background: #ddd;
+    color: #666;
+    border-radius: 3px;
+    padding: 4px 8px;
+    margin-left: 3px
+}
+
+div.uimob340 .um-profile-nav {
+    padding: 0
+}
+
+div.uimob340 .um-profile-nav-item a {
+    padding: 10px 16px;
+    margin-left: 0;
+    border-radius: 0
+}
+
+div.uimob340 .um-profile-nav-item i {
+    display: block;
+    position: static;
+    top: auto;
+    left: auto
+}
+
+div.uimob500 .um-profile-nav {
+    padding: 0
+}
+
+div.uimob500 .um-profile-nav-item a {
+    padding: 10px 16px;
+    margin-left: 0;
+    border-radius: 0
+}
+
+div.uimob500 .um-profile-nav-item i {
+    display: block;
+    position: static;
+    top: auto;
+    left: auto;
+    font-size: 22px;
+    height: 22px;
+    line-height: 22px
+}
+
+div.uimob800 .um-profile-nav {
+    padding: 0
+}
+
+div.uimob800 .um-profile-nav-item a {
+    padding: 10px 20px;
+    margin-left: 0;
+    border-radius: 0
+}
+
+div.uimob800 .um-profile-nav-item i {
+    display: block;
+    position: static;
+    top: auto;
+    left: auto;
+    font-size: 26px;
+    height: 26px;
+    line-height: 26px
+}
+
+.um-profile-nav {
+    left: auto;
+    width: 100%;
+    z-index: 70;
+    max-width: 1060px;
+    border-radius: 7px
+}
+
+.um-profile-nav .um-profile-nav-item {
+    display: inline-flex;
+    display: -ms-inline-flexbox
+}
+
+.um-profile-nav .um-profile-nav-item a:hover {
+    padding-bottom: 2px
+}
+
+.um-profile-nav-item a:hover {
+    background: transparent !important
+}
+
+.um-profile-nav-item a:not(:hover) {
+    border-bottom: 4px solid transparent !important
+}
+
+.um-profile-nav-item span.title {
+    font-weight: lighter
+}
+
+.um-profile-nav-item a {
+    margin-left: 5px !important;
+    border-radius: 0 !important;
+    padding: 6px 16px 6px 30px !important
+}
+
+@media screen and (max-width: 800px) {
+    .um-profile-nav-item a {
+        padding:5px 3px !important;
+        font-size: 0.85em !important
+    }
+
+    .um-profile-nav {
+        padding: 5px 0 0 0 !important
+    }
+}
+
+.um-faicon-user:before {
+    content: "\f007"
+}
+.um-faicon-group:before,.um-faicon-users:before {
+    content: "\f0c0"
+}
+.um-faicon-user-md:before {
+    content: "\f0f0"
+}
+.um-faicon-paw:before {
+    content: "\f1b0"
+}
+
